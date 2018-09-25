@@ -5,7 +5,7 @@ export default class Main extends Component {
   render() {
     return (
       <div className="content">
-        <h2>UTAH BASED WEB DEVELOPER.</h2>
+        <h2><span>FULL STACK</span> WEB DEVELOPER.</h2>
         <p>HTML. SCSS. PHP. WORDPRESS. JAVASCRIPT. NODE. REACT. GIT. ADOBE SUITE.</p>
         <a className="social" href="https://github.com/scdozer/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
         <a className="social" href="https://www.linkedin.com/in/scott-cardoza-b5497974/" target="_blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
