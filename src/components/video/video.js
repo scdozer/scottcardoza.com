@@ -25,7 +25,7 @@ export default class Video extends Component {
     }
     return (
       <div className="video">
-          <a target="_blank" href={`http://timewellwasted.online/#/post/${this.state.video.id}`}>
+          <a target="_blank" rel="noopener noreferrer" href={`http://timewellwasted.online/#/post/${this.state.video.id}`}>
             <div style={videoBg} className="videoBg">
 
             </div>
