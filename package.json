@@ -15,7 +15,7 @@
     "react-three-renderer": "^3.2.4",
     "redux": "^3.7.2",
     "redux-promise-middleware": "^5.0.0",
-    "three": "^0.109.0"
+    "three": "^0.125.0"
   },
   "scripts": {
     "build:style":"tailwind build src/styles/index.css -o src/styles/tailwind.css",
